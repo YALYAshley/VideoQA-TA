@@ -1,7 +1,7 @@
 # VideoQA-TA
 Multi-modal video question-answering
 <p align="left">
-    <img src="https://github.com/YSLYAshley/VideoQA-TA/blob/main/ICONS.png" width="150" style="margin-bottom: 0.2;"/>
+    <img src="https://github.com/YALYAshley/VideoQA-TA/blob/main/ICONS.png" width="150" style="margin-bottom: 0.2;"/>
 <p>
 
 
@@ -89,26 +89,7 @@ bash VideoQA-TA/scripts/${dataset_name}/test.sh ${checkpoint_path}
   year={2024}
 }
 ```
-4) [VideoChat](https://github.com/OpenGVLab/Ask-Anything/tree/main)
-```bibtex
-@article{2023videochat,
-  title={VideoChat: Chat-Centric Video Understanding},
-  author={KunChang Li, Yinan He, Yi Wang, Yizhuo Li, Wenhai Wang, Ping Luo, Yali Wang, Limin Wang, and Yu Qiao},
-  journal={arXiv preprint arXiv:2305.06355},
-  year={2023}
-}
-```
-5) [VideoChat2](https://github.com/OpenGVLab/Ask-Anything/tree/main)
-```bibtex
-@inproceedings{li2024mvbench,
-  title={Mvbench: A comprehensive multi-modal video understanding benchmark},
-  author={Li, Kunchang and Wang, Yali and He, Yinan and Li, Yizhuo and Wang, Yi and Liu, Yi and Wang, Zun and Xu, Jilan and Chen, Guo and Luo, Ping and others},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={22195--22206},
-  year={2024}
-}
-```
-6) [Video-ChatGPT](https://github.com/mbzuai-oryx/Video-ChatGPT)
+4) [Video-ChatGPT](https://github.com/mbzuai-oryx/Video-ChatGPT)
 ```bibtex
 @inproceedings{Maaz2023VideoChatGPT,
     title={Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models},
@@ -117,7 +98,7 @@ bash VideoQA-TA/scripts/${dataset_name}/test.sh ${checkpoint_path}
     year={2024}
 }
 ```
-7) [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA)
+5) [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA)
 ```bibtex
 @article{lin2023video,
   title={Video-llava: Learning united visual representation by alignment before projection},
@@ -126,16 +107,7 @@ bash VideoQA-TA/scripts/${dataset_name}/test.sh ${checkpoint_path}
   year={2023}
 }
 ```
-8) [Movie-LLM](https://github.com/Deaddawn/MovieLLM-code)
-```bibtex
-@article{song2024moviellm,
-  title={Moviellm: Enhancing long video understanding with ai-generated movies},
-  author={Song, Zhende and Wang, Chenchen and Sheng, Jiamu and Zhang, Chi and Yu, Gang and Fan, Jiayuan and Chen, Tao},
-  journal={arXiv preprint arXiv:2403.01422},
-  year={2024}
-}
-```
-9) [Chat-UniVi](https://github.com/PKU-YuanGroup/Chat-UniVi/tree/main)
+6) [Chat-UniVi](https://github.com/PKU-YuanGroup/Chat-UniVi/tree/main)
 ```bibtex
 @article{jin2023chatunivi,
   title={Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding}, 
@@ -144,7 +116,7 @@ bash VideoQA-TA/scripts/${dataset_name}/test.sh ${checkpoint_path}
   year={2023}
 }
 ```
-10) [LLaMA-VID](https://github.com/dvlab-research/LLaMA-VID)
+7) [LLaMA-VID](https://github.com/dvlab-research/LLaMA-VID)
 ```bibtex
 @article{li2023llama,
   title={Llama-vid: An image is worth 2 tokens in large language models},
@@ -153,7 +125,7 @@ bash VideoQA-TA/scripts/${dataset_name}/test.sh ${checkpoint_path}
   year={2023}
 }
 ```
-11) [MiniGPT4-Video](https://github.com/Vision-CAIR/MiniGPT4-video/tree/main)
+8) [MiniGPT4-Video](https://github.com/Vision-CAIR/MiniGPT4-video/tree/main)
 ```bibtex
 @article{ataallah2024minigpt4,
   title={Minigpt4-video: Advancing multimodal llms for video understanding with interleaved visual-textual tokens},
@@ -162,17 +134,7 @@ bash VideoQA-TA/scripts/${dataset_name}/test.sh ${checkpoint_path}
   year={2024}
 }
 ```
-12) [MovieChat](https://github.com/rese1f/MovieChat)
-```bibtex
-@inproceedings{song2024moviechat,
-  title={Moviechat: From dense token to sparse memory for long video understanding},
-  author={Song, Enxin and Chai, Wenhao and Wang, Guanhong and Zhang, Yucheng and Zhou, Haoyang and Wu, Feiyang and Chi, Haozhe and Guo, Xun and Ye, Tian and Zhang, Yanting and others},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={18221--18232},
-  year={2024}
-}
-```
-13) [MA-LMM](https://github.com/boheumd/MA-LMM/tree/main)
+9) [MA-LMM](https://github.com/boheumd/MA-LMM/tree/main)
 ```bibtex
 @inproceedings{he2024malmm,
   title = {MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding},
