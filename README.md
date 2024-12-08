@@ -1,7 +1,7 @@
 # VideoQA-TA
 Multi-modal video question-answering
 <p align="left">
-    <img src="https://github.com/ZhixuanWuA/VideoQA-TA/blob/main/ICONS.png" width="150" style="margin-bottom: 0.2;"/>
+    <img src="https://github.com/YSLYAshley/VideoQA-TA/blob/main/ICONS.png" width="150" style="margin-bottom: 0.2;"/>
 <p>
 
 
@@ -18,14 +18,14 @@ Basic Dependencies:
 
 **[Online Mode]** Install required packages (better for development):
 ```bash
-git clone https://github.com/ZhixuanWuA/VideoQA-TA
+git clone https://github.com/YALYAshley/VideoQA-TA
 cd VideoQA-TA
 pip install -r requirements.txt
 ```
 
 **[Offline Mode]** Install VideoQA-TA as a Python package (better for direct use):
 ```bash
-git clone https://github.com/ZhixuanWuA/VideoQA-TA
+git clone https://github.com/YALYAshley/VideoQA-TA
 cd VideoQA-TA
 pip install --upgrade pip  
 pip install -e .
