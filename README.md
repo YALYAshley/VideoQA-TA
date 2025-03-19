@@ -7,7 +7,7 @@ Multi-modal video question-answering
 
 ## 📝 Change Logs
 * [2024-09-09]: Create the Projects, and upload data, pre-trained LLM, ablation study links.
-* All code will be released after the work is accepted.
+* [TODO] All code will be released.
 
 ## 🛠️ Requirements and Installation
 Basic Dependencies:
